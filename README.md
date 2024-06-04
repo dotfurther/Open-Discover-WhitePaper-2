@@ -50,6 +50,7 @@ See Image 1 for a WMS processing summary screen shot.
 - A 'container unextractable document' is a document that could not be extracted from a container (e.g., a password protected ZIP archive where no password was provided to extract archive documents).
 
 Future Improvement:
+
 We have an easy performance improvement in the works that will increase WMS Worker processing/extraction performance by another 30-40%.
 
 ### Image 1: Processing Summary
